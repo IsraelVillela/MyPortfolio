@@ -1,0 +1,153 @@
+body{
+  font-family:sans-serif;
+  /* entire site font*/
+}
+.main-header{
+  /* header  */
+  width:relative;
+  height:400px;
+  background-color:#F0F5F9;
+  text-align:center;
+  
+}
+.header-content{
+  /* content within header */
+  font-size:20px;
+  padding-top:20px;
+}
+
+.img-me{
+  /* image of me */
+  position:;
+  padding:0 0 0 70px;
+  height:180px;
+  width:180px;
+}
+.bestboot{
+  /* best bootcamp award */
+  padding:0 0 0 0;
+  height:180px;
+  width:240px;
+}
+.thinkful-logo{
+  /* thinkful logo  */
+  padding:0 0 0 0;
+  height:180px;
+  width:180px;
+}
+
+.intro-hr{ 
+  /* intro horizontal */
+  align:center;
+  width:120px;
+  border:0;
+  margin-top:-106px;
+  margin-bottom:105px;
+  border-top: dotted 15px #52616B;
+}
+#intro{
+  /* intro section */
+  font-size:20px;
+  padding:100px 100px 100px 100px;
+  width:relative;
+  height:300px;
+  background-color:#C9D6DF;
+  text-align:center;
+}
+.hesperia{
+  /* image of hesperia */
+  height:180px;
+  width:180px;
+}
+#about-me{
+  /* about me section */
+  font-size:20px;
+  padding:50px 100px 100px 100px;
+  text-align:center;
+  background-color:#ECECEC;
+}
+.about-hr{
+  /* about horizontal */
+  align:center;
+  width:120px;
+  border:0;
+  margin-top:-57px;
+  margin-bottom:105px;
+  border-top: dotted 15px #52616B; 
+}
+.hobbies{
+  padding-left:40%;
+  text-align:left;
+}
+.hobbies-p{
+  padding-top:0px;
+}
+.interest-p{
+  font-size:20px;
+  padding-top:40px;
+}
+h3{
+  font-size:30px;
+}
+#contact-me{
+  padding:50px 100px 100px 100px;
+  text-align:center;
+  background-color:#C9D6DF;
+}
+.contact-hr{
+  align:center;
+  width:120px;
+  border:0;
+  margin-top:-57px;
+  margin-bottom:105px;
+  border-top: dotted 15px #52616B;   
+}
+ol{
+  text-aligm:center;
+}
+.LinkedInLink{
+  padding-right:120px;
+}
+.GithubLink{
+  padding-right:120px;
+}
+.EmailLink{
+  padding-left:0;
+  padding-right:40px;
+}
+.linkedin{
+  padding-right:30px;
+  width:160px;
+  height:160px;
+}
+.github{
+  padding-right:30px;
+  width:160px;
+  height:160px;  
+}
+.email{
+  
+  width:180px;
+  height:180px;  
+  
+}
+.li-style{
+  
+  list-style-type:none;
+}
+footer{
+  font-size:20px;
+  padding-top:20px;
+  padding-bottom:15px;
+  text-align:center;
+  background-color:#52616B;
+}
+a:link{
+  color:darkblue;
+}
+a:visited{
+  color:black;
+}
+a:hover{
+  color:lightblue;
+}
